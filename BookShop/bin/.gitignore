@@ -1,0 +1,15 @@
+/AddBookCommand.class
+/AddCopyCommand.class
+/Book.class
+/CareTaker.class
+/ChangePriceCommand.class
+/Command.class
+/Inventory.class
+/InventoryDecorator.class
+/InventoryInterface.class
+/InventoryTest.class
+/MatchNotFoundException.class
+/Memento.class
+/MementoPatternDemo.class
+/Originator.class
+/SellBookCommand.class
